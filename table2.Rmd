@@ -9,8 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<br>
-<br>
+<br><br>
 
 ```{r echo = FALSE}
 df <- data.frame(AUC = 0.84,
